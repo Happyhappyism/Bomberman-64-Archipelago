@@ -43,7 +43,3 @@ Same as every other unsupported N64 apworld,
 ## Gameplay Notes
 - Kicking Bombs and Power Glove are locked as checks at first.
 - Remote Bombs and Power Bombs are checks within levels but are permanent when you receive them from your item pool.
-
-Planned Features
-Randomized enemies
-Rainbow Castle to come ... at some point!
