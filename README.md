@@ -1,5 +1,7 @@
 # Bomberman 64 Archipelago
-[Poptracker](https://github.com/RunInAWeek/Bomberman-64-AP-Tracker/releases) by [RunInAWeek](https://github.com/RunInAWeek)
+
+## Resources
+[Poptracker Pack](https://github.com/RunInAWeek/Bomberman-64-AP-Tracker/releases) by [RunInAWeek](https://github.com/RunInAWeek)
 
 # Setup Guide
 
